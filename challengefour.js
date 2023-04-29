@@ -56,3 +56,4 @@ function drawSprite() {
     spriteY -= 10; // move sprite up
   }
 }
+//
